@@ -1,0 +1,45 @@
+.app {
+  font-family: "Encode Sans Expanded", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Montserrat, sans-serif;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.5rem;
+}
+
+/* Media query */
+
+@media only screen and (max-width: 600px) {
+  .app {
+    /* width: 290px; */
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .app {
+   
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  
+}

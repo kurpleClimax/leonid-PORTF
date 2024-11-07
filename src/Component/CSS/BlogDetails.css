@@ -1,0 +1,40 @@
+.blog-card{
+    color: white;
+    margin-top: 20px;
+    height: 43rem;
+    transition: box-shadow .25s;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.blog-card:hover{
+    transform: scale(0.9, 0.9);
+    box-shadow: 5px 5px 30px 15px rgba(0,0,0,0.25), 
+      -5px -5px 30px 15px rgba(0,0,0,0.22);
+}
+
+.card-title{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.blog-footer{
+    text-align: center;
+}
+
+.blog-img{
+    height: 15rem;
+}
+
+.blog-button{
+    width: 100%;
+    background-color: rgb(3, 41, 41);
+}
+
+.blog-button:hover{
+    background: gray;
+    color: #fff;
+    border: 1px solid #fff;
+    transition: all 0.35s linear;
+   
+}
