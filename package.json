@@ -2,7 +2,7 @@
   "name": "portfolio",
   "homepage": "https://alaminsahed.github.io/portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@formspree/react": "^2.2.3",
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
@@ -13,7 +13,7 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "aos": "^3.0.0-beta.6",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.3.3",
     "jquery": "^3.6.0",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.1",
@@ -23,7 +23,7 @@
     "react-reveal": "^1.2.2",
     "react-router-bootstrap": "^0.25.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^3.0.1",
     "react-scroll": "^1.8.2",
     "react-water-wave": "^1.0.5",
     "web-vitals": "^1.1.2"
@@ -55,6 +55,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^6.2.0"
   }
 }
